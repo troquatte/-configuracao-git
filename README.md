@@ -12,5 +12,5 @@
 <h2>Git Checkout muda a Brantch ( Master, release ou dev )</h2>
 <p>Reseta todos as alterações dos arquivos</p>
 <code>
-  git checkout {Bramtch}
+  git checkout {Brantch}
 </code>
