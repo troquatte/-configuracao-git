@@ -14,3 +14,9 @@
 <code>
   git checkout {Brantch}
 </code>
+
+<h2>Criar Brantch e muda</h2>
+<p>Cria a brantch e muda ao mesmo tempo</p>
+<code>
+  git checkout -b develop
+</code>
